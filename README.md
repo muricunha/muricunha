@@ -23,6 +23,6 @@
 <a href="https://www.instagram.com/muricunhadev/">
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">
 </a>
-<a href="">
+<a href="www.linkedin.com/in/murilo-santos-cunha">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8">
 </a>
